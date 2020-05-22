@@ -1,0 +1,8 @@
+<China.>: 1
+<I>: 1
+<a>: 1
+<am>: 1
+<from>: 1
+<student>: 1
+wordTotal: 6
+charTotal: 26
